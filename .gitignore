@@ -1,0 +1,5 @@
+/node_modules
+/screenshots
+books.csv
+meta.db
+books.db
